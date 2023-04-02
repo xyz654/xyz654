@@ -1,4 +1,4 @@
-### Hi, I'm Magda 👋
+# Hi, I'm Magda 👋
 
 <!--
 **xyz654/xyz654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### I am a second year student of Computer Science
 
 I have worked with:
 
