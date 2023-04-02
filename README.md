@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+I have worked with:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,java,c,cpp,html,css,javascript,angular,mysql)](https://skills.thijs.gg)
 
 
